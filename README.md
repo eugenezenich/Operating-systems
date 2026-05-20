@@ -373,7 +373,10 @@ Makefile:
 Задание № 2
 
 
-https://cloud.mail.ru/home/
+[https://cloud.mail.ru/home/](https://cloud.mail.ru/public/AqQj/CuBTUWx8W)
+
+
+(последние минуты не записались, прошу прощения)
 
 
 
