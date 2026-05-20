@@ -370,6 +370,14 @@ Makefile:
 <img width="771" height="388" alt="image" src="https://github.com/user-attachments/assets/34aa30a6-ff8d-43d7-9505-edcf4cc1b303" />
 
 
+Задание № 2
+
+
+https://cloud.mail.ru/home/
+
+
+
+
 
 
 
