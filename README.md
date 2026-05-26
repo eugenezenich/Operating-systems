@@ -370,13 +370,48 @@ Makefile:
 <img width="771" height="388" alt="image" src="https://github.com/user-attachments/assets/34aa30a6-ff8d-43d7-9505-edcf4cc1b303" />
 
 
-Задание № 2
+## Задание № 2
 
 
 [https://cloud.mail.ru/home/](https://cloud.mail.ru/public/AqQj/CuBTUWx8W)
 
 
 (последние минуты не записались, прошу прощения)
+
+
+### Задание № 3 a
+
+
+<img width="1150" height="346" alt="image" src="https://github.com/user-attachments/assets/b591dcd0-927f-45fc-a1e6-cf7d66e8a4c1" />
+
+
+сначала создали папку->копируем изображения->проверяем результат
+
+
+#### Задание № 3b
+
+
+PowerShell скрипт для резервного копирования изображений: 
+
+
+<img width="802" height="388" alt="image" src="https://github.com/user-attachments/assets/d7e50260-748e-46e8-8192-2a5c88587848" />
+
+
+<img width="799" height="427" alt="image" src="https://github.com/user-attachments/assets/180e7633-20b6-45f3-8b70-c6e0e1630db9" />
+
+
+<img width="1093" height="911" alt="image" src="https://github.com/user-attachments/assets/4f277102-a630-49cf-abd2-a832446f182b" />
+
+
+<img width="1060" height="72" alt="image" src="https://github.com/user-attachments/assets/1cb57106-4412-4ac9-b0f2-5fef186e7b0c" />
+
+
+
+
+
+
+
+
 
 
 
